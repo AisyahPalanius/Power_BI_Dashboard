@@ -8,7 +8,6 @@
 ## Introduction
 Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for Job Seekers, Job Transitioners, and Job Swappers to cut through the clutter! Using a real-world dataset of 2024 data science job postings-rich with details on titles, salaries, and locations-this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
-## Skills Showcased
 
 - Data Transformation (ETL) with Power Query: Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 - Implicit Measures: Formulated measures to derive key insights and KPIs like Median Yearly Salary and Job Count.
