@@ -13,6 +13,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 (https://app.powerbi.com/links/jq1sCbs6r_?ctid=28c6df52-b312-4442-af59-207258bf64ab&pbi_source=linkShare)
 
 ** Key Power BI Skills Utilized:**
+
 🎨 Dashboard Layout & Design
 ⚙️ Power Query (ETL & Data Shaping)
 🕸️ Basic Data Modeling (Table Relationships)
@@ -24,5 +25,5 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 ⚪ Buttons & Bookmarks for Page Navigation
 ➡️ Drill-Through Functionality
 
-[**View Full Project 1 Details](/Data_Jobs_v1/README.md)
+[**View Full Project 1 Details**](/Data_Jobs_v1/README.md)
 
