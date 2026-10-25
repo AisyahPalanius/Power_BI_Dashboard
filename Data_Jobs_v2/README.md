@@ -10,8 +10,6 @@ Navigating the data job market can feel like a maze with information scattered e
 
 ## Skills Showcased
 
-## Skills Showcased
-
 - Data Transformation (ETL) with Power Query: Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 - Implicit Measures: Formulated measures to derive key insights and KPIs like Median Yearly Salary and Job Count.
 - Core Charts: Utilized Column, Bar, Line, and Area Charts to compare job counts and track trends over time.
